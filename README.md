@@ -4,7 +4,7 @@ In each step, you can only move one block, and the selected block will go straig
 The selected block will escape the map if there is a target along the path.
 * represents the target
 . represents an empty cell
-# represents a wall cell
+(#) represents a wall cell (hashtag)
 A-Z represents a movable block.
 Block movement : 3 chars (including space)
 First char represents the movable block in capital letter.
